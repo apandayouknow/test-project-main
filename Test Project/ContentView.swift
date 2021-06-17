@@ -6,7 +6,7 @@ struct ContentView: View {
             Text("Hello, world!")
             Text("Goodbye, world!")
             Text("I'm a little app for your big needs!")
-            Text("ABC I guess")
+            Text("ABC")
             Button("Learn more") {
             
             }
